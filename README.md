@@ -611,6 +611,7 @@ zepto.js
 	- [中文网](http://www.css88.com/doc/zeptojs_api/)
 	- [浏览器检测](https://github.com/madrobby/zepto/blob/master/src/detect.js)
 	- [tap事件](https://github.com/madrobby/zepto/blob/master/src/touch.js)
-	
+####移动端前端开发调试
+[调试工具及调试方法](http://yujiangshui.com/multidevice-frontend-debug/)
 
 
